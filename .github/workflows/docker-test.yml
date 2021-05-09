@@ -11,4 +11,4 @@ jobs:
     steps:
     - name: A simple BASH script
       id: BASH
-      uses: melscoop-test/ACC_05-PG7-DKRTest@main
+      uses: melscoop-test/ACC_05-PG7-DKRTest
