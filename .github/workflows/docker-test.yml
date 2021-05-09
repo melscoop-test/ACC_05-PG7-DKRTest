@@ -11,4 +11,4 @@ jobs:
     steps:
     - name: A simple BASH script
       id: BASH
-      uses: ./
+      uses: testesdapri/a-docker-action@main
