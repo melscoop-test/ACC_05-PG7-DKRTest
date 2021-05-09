@@ -6,7 +6,7 @@ on:
  
 jobs:
   user-and-time:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     name: Running a simple BASH script
     steps:
     - name: A simple BASH script
